@@ -1,0 +1,40 @@
+body {
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: #d1d1e0;
+}
+
+#txt {
+    background: url(https://i.imgur.com/2cOaJ.png);
+    background-attachment: local;
+    background-repeat: no-repeat;
+    padding-left: 38px;
+    padding-top: 10px;
+    border-color: #ccc;
+    background-color: white;
+}
+
+#lan {
+    background-color: white;
+    width: 140px;
+    height: 25px;
+    margin-left: 859px;
+    border: 1px solid grey;
+}
+
+#out {
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+#comp {
+    background-color: orange;
+    padding: 7px;
+    font-size: 13px;
+    border: 1px solid orange;
+    border-radius: 3px;
+    width: 100px;
+}
